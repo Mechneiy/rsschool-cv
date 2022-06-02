@@ -1,8 +1,8 @@
 # ***Vital Goza***
 =========================<p>
-*Contact information*:<p>                                     
-Phone: +375-33-384-27-54<p>
-E-mail: mechenistalker@gmail.com<p>
+**Contact information**:<p>                                     
+**Phone: +375-33-384-27-54**<p>
+**E-mail: mechenistalker@gmail.com**<p>
 =========================<p>
 *About Myself*<p>
 He graduated from college with a degree in software engineering, then entered BSUIR as a system engineer.<p> 
