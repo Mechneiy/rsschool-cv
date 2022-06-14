@@ -9,7 +9,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   box-sizing: border-box;
-  background: url(assets/fonts/font.jpg);
+  background: url(assets/fonts/fon.jpg);
 }
 
 .header {
