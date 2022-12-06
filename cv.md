@@ -31,5 +31,6 @@ function solution(str){
  - College: Gomel Trade and Economic College,technician programmer<p>
  =========================<p>
 *Languages*:<p>
+  +Belarusian - native<p>
   +English - Elementary<p>
   +Russian - native<p>
