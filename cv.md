@@ -32,5 +32,6 @@ function solution(str){
  =========================<p>
 *Languages*:<p>
   +Belarusian - native<p>
-  +English - Elementary<p>
   +Russian - native<p>
+  +English - Elementary<p>
+  
